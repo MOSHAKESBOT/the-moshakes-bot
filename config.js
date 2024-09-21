@@ -8,7 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['201011045746', '❄️ 𝙑𝙀𝙉𝙊𝙈 🧿', true],
+  ['201011045746', '❄️ MAHMOUD 🧿', true],
   ['201091153769', '🔥 𝙎𝙊𝙆𝙐𝙉𝘼 🧿', true],
 ];
 
