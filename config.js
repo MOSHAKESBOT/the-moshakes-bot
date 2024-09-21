@@ -8,13 +8,13 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['201554582851', '❄️ 𝙑𝙀𝙉𝙊𝙈 🧿', true],
-  ['201033024135', '🔥 𝙎𝙊𝙆𝙐𝙉𝘼 🧿', true],
+  ['201011045746', '❄️ 𝙑𝙀𝙉𝙊𝙈 🧿', true],
+  ['201091153769', '🔥 𝙎𝙊𝙆𝙐𝙉𝘼 🧿', true],
 ];
 
 global.xaxa = 'kaneki'
-global.suittag = ['201554582851'];
-global.prems = ['201554582851'];
+global.suittag = ['201011045746'];
+global.prems = ['201091153769'];
 
 global.packname = '𝑺𝛩𝐾𝑈𝑁𝐴 - 𝑉𝐸𝑁𝛩𝑀 ';
 global.author = '★𝑺𝛩𝐾𝑈𝑁𝐴 - 𝑉𝐸𝑁𝛩𝑀 𝐵𝛩𝑇★';
